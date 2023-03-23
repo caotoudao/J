@@ -1,0 +1,1040 @@
+{
+  "Name": "1",
+  "CreationDate": "2022-7-21",
+  "Commands": [
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_PD1\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_PD1\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_PD1 > div > div.element.even.groupingCols.OneColumnEl.clickableCell > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans353.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans353.0.0",
+        "name=ans353.0.0",
+        "xpath=//*[@id=\"ans353.0.0\"]",
+        "xpath=//input[@id='ans353.0.0']",
+        "xpath=//span/input",
+        "css=#ans353.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_dob_check\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_dob_check\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_dob_check > div > div.element.even.groupingCols.OneColumnEl.clickableCell > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans19505.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans19505.0.0",
+        "name=ans19505.0.0",
+        "xpath=//*[@id=\"ans19505.0.0\"]",
+        "xpath=//input[@id='ans19505.0.0']",
+        "xpath=//span/input",
+        "css=#ans19505.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"suggest_nationality\"]/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"suggest_nationality\"]/div",
+        "xpath=//div[3]/div",
+        "css=#suggest_nationality > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"suggest_nationality\"]/div[2]/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"suggest_nationality\"]/div[2]/div",
+        "xpath=//div[3]/div[2]/div",
+        "css=#suggest_nationality > div.ms-res-ctn.dropdown-menu > div.ms-res-item.ms-res-item-active"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"suggest_country_living\"]/div/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"suggest_country_living\"]/div/div",
+        "xpath=//div[3]/div/div",
+        "css=#suggest_country_living > div > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"suggest_country_living\"]/div[2]/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"suggest_country_living\"]/div[2]/div",
+        "xpath=//div[3]/div[2]/div",
+        "css=#suggest_country_living > div.ms-res-ctn.dropdown-menu > div.ms-res-item.ms-res-item-active"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans12201.0.0",
+      "Value": "0",
+      "Targets": [
+        "id=ans12201.0.0",
+        "name=ans12201.0.0",
+        "xpath=//*[@id=\"ans12201.0.0\"]",
+        "xpath=//input[@id='ans12201.0.0']",
+        "xpath=//span/input",
+        "css=#ans12201.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_ethnicity\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_ethnicity\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_ethnicity > div > div:nth-child(3) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans12201.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans12201.0.0",
+        "name=ans12201.0.0",
+        "xpath=//*[@id=\"ans12201.0.0\"]",
+        "xpath=//input[@id='ans12201.0.0']",
+        "xpath=//span/input",
+        "css=#ans12201.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btn_continue",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[@id='btn_continue']",
+        "xpath=//input[3]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans12219.0.0",
+      "Value": "0",
+      "Targets": [
+        "id=ans12219.0.0",
+        "name=ans12219.0.0",
+        "xpath=//*[@id=\"ans12219.0.0\"]",
+        "xpath=//input[@id='ans12219.0.0']",
+        "xpath=//span/input",
+        "css=#ans12219.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_location\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_location\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_location > div > div:nth-child(3) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans12219.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans12219.0.0",
+        "name=ans12219.0.0",
+        "xpath=//*[@id=\"ans12219.0.0\"]",
+        "xpath=//input[@id='ans12219.0.0']",
+        "xpath=//span/input",
+        "css=#ans12219.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btn_continue",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[@id='btn_continue']",
+        "xpath=//input[3]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans12236.0.0",
+      "Value": "0",
+      "Targets": [
+        "id=ans12236.0.0",
+        "name=ans12236.0.0",
+        "xpath=//*[@id=\"ans12236.0.0\"]",
+        "xpath=//input[@id='ans12236.0.0']",
+        "xpath=//span/input",
+        "css=#ans12236.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_religion\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_religion\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_religion > div > div:nth-child(3) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans12236.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans12236.0.0",
+        "name=ans12236.0.0",
+        "xpath=//*[@id=\"ans12236.0.0\"]",
+        "xpath=//input[@id='ans12236.0.0']",
+        "xpath=//span/input",
+        "css=#ans12236.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btn_continue",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[@id='btn_continue']",
+        "xpath=//input[3]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=#question_disability > div > div:nth-child(12) > span > span.cell-input.cell-sub-column > span > svg > polygon",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_disability\"]/div/div[12]/span/span/span/svg/polygon",
+        "css=#question_disability > div > div:nth-child(12) > span > span.cell-input.cell-sub-column > span > svg > polygon"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans12260.0.0",
+      "Value": "0",
+      "Targets": [
+        "id=ans12260.0.0",
+        "name=ans12260.0.0",
+        "xpath=//*[@id=\"ans12260.0.0\"]",
+        "xpath=//input[@id='ans12260.0.0']",
+        "xpath=//span/input",
+        "css=#ans12260.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_parental_social_grade\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_parental_social_grade\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_parental_social_grade > div > div:nth-child(3) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans12260.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans12260.0.0",
+        "name=ans12260.0.0",
+        "xpath=//*[@id=\"ans12260.0.0\"]",
+        "xpath=//input[@id='ans12260.0.0']",
+        "xpath=//span/input",
+        "css=#ans12260.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans12194.0.1",
+      "Value": "1",
+      "Targets": [
+        "id=ans12194.0.1",
+        "name=ans12194.0.0",
+        "xpath=//*[@id=\"ans12194.0.1\"]",
+        "xpath=//input[@id='ans12194.0.1']",
+        "xpath=//div[4]/span/span/input",
+        "css=#ans12194.0.1"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_pay_overseas_fees\"]/div/div[4]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_pay_overseas_fees\"]/div/div[4]/span/span[2]/label",
+        "xpath=//div[4]/span/span[2]/label",
+        "css=#question_pay_overseas_fees > div > div.element.odd.groupingCols.OneColumnEl.clickableCell > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans12194.0.1",
+      "Value": "",
+      "Targets": [
+        "id=ans12194.0.1",
+        "name=ans12194.0.0",
+        "xpath=//*[@id=\"ans12194.0.1\"]",
+        "xpath=//input[@id='ans12194.0.1']",
+        "xpath=//div[4]/span/span/input",
+        "css=#ans12194.0.1"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=#question_total_course_years > div > div:nth-child(6) > span > span.cell-input.cell-sub-column > span > svg > circle.fir-selected",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_total_course_years\"]/div/div[6]/span/span/span/svg/circle[3]",
+        "css=#question_total_course_years > div > div:nth-child(6) > span > span.cell-input.cell-sub-column > span > svg > circle.fir-selected"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans12284.0.0",
+      "Value": "0",
+      "Targets": [
+        "id=ans12284.0.0",
+        "name=ans12284.0.0",
+        "xpath=//*[@id=\"ans12284.0.0\"]",
+        "xpath=//input[@id='ans12284.0.0']",
+        "xpath=//span/input",
+        "css=#ans12284.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_live_during_term\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_live_during_term\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_live_during_term > div > div:nth-child(3) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans12284.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans12284.0.0",
+        "name=ans12284.0.0",
+        "xpath=//*[@id=\"ans12284.0.0\"]",
+        "xpath=//input[@id='ans12284.0.0']",
+        "xpath=//span/input",
+        "css=#ans12284.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=btn_continue",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[@id='btn_continue']",
+        "xpath=//input[3]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans20114.0.0",
+      "Value": "0",
+      "Targets": [
+        "id=ans20114.0.0",
+        "name=ans20114.0.0",
+        "xpath=//*[@id=\"ans20114.0.0\"]",
+        "xpath=//input[@id='ans20114.0.0']",
+        "xpath=//div[5]/span/span/input",
+        "css=#ans20114.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_E14\"]/div/div[5]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_E14\"]/div/div[5]/span/span[2]/label",
+        "xpath=//div[5]/span/span[2]/label",
+        "css=#question_E14 > div > div:nth-child(5) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans20114.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans20114.0.0",
+        "name=ans20114.0.0",
+        "xpath=//*[@id=\"ans20114.0.0\"]",
+        "xpath=//input[@id='ans20114.0.0']",
+        "xpath=//div[5]/span/span/input",
+        "css=#ans20114.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans13941.0.0",
+      "Value": "0",
+      "Targets": [
+        "id=ans13941.0.0",
+        "name=ans13941.0.0",
+        "xpath=//*[@id=\"ans13941.0.0\"]",
+        "xpath=//input[@id='ans13941.0.0']",
+        "xpath=//span/input",
+        "css=#ans13941.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_full_part_course\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_full_part_course\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_full_part_course > div > div.element.even.groupingCols.OneColumnEl.clickableCell > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans13941.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans13941.0.0",
+        "name=ans13941.0.0",
+        "xpath=//*[@id=\"ans13941.0.0\"]",
+        "xpath=//input[@id='ans13941.0.0']",
+        "xpath=//span/input",
+        "css=#ans13941.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btn_continue",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[@id='btn_continue']",
+        "xpath=//input[3]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans13948.0.0",
+      "Value": "0",
+      "Targets": [
+        "id=ans13948.0.0",
+        "name=ans13948.0.0",
+        "xpath=//*[@id=\"ans13948.0.0\"]",
+        "xpath=//input[@id='ans13948.0.0']",
+        "xpath=//span/input",
+        "css=#ans13948.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_under_post_qual\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_under_post_qual\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_under_post_qual > div > div.element.even.groupingCols.OneColumnEl.clickableCell > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans13948.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans13948.0.0",
+        "name=ans13948.0.0",
+        "xpath=//*[@id=\"ans13948.0.0\"]",
+        "xpath=//input[@id='ans13948.0.0']",
+        "xpath=//span/input",
+        "css=#ans13948.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans13956.0.0",
+      "Value": "0",
+      "Targets": [
+        "id=ans13956.0.0",
+        "name=ans13956.0.0",
+        "xpath=//*[@id=\"ans13956.0.0\"]",
+        "xpath=//input[@id='ans13956.0.0']",
+        "xpath=//span/input",
+        "css=#ans13956.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_undergrad_qual\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_undergrad_qual\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_undergrad_qual > div > div:nth-child(3) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans13956.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans13956.0.0",
+        "name=ans13956.0.0",
+        "xpath=//*[@id=\"ans13956.0.0\"]",
+        "xpath=//input[@id='ans13956.0.0']",
+        "xpath=//span/input",
+        "css=#ans13956.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btn_continue",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[@id='btn_continue']",
+        "xpath=//input[3]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans14012.0.1",
+      "Value": "1",
+      "Targets": [
+        "id=ans14012.0.1",
+        "name=ans14012.0.0",
+        "xpath=//*[@id=\"ans14012.0.1\"]",
+        "xpath=//input[@id='ans14012.0.1']",
+        "xpath=//div[4]/span/span/input",
+        "css=#ans14012.0.1"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_school_funding\"]/div/div[4]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_school_funding\"]/div/div[4]/span/span[2]/label",
+        "xpath=//div[4]/span/span[2]/label",
+        "css=#question_school_funding > div > div.element.odd.groupingCols.OneColumnEl.clickableCell > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans14012.0.1",
+      "Value": "",
+      "Targets": [
+        "id=ans14012.0.1",
+        "name=ans14012.0.0",
+        "xpath=//*[@id=\"ans14012.0.1\"]",
+        "xpath=//input[@id='ans14012.0.1']",
+        "xpath=//div[4]/span/span/input",
+        "css=#ans14012.0.1"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans19008.0.28",
+      "Value": "1",
+      "Targets": [
+        "id=ans19008.0.28",
+        "name=ans19008.0.28",
+        "xpath=//*[@id=\"ans19008.0.28\"]",
+        "xpath=//input[@id='ans19008.0.28']",
+        "xpath=//div[31]/span/span/input",
+        "css=#ans19008.0.28"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_quals_have\"]/div/div[31]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_quals_have\"]/div/div[31]/span/span[2]/label",
+        "xpath=//div[31]/span/span[2]/label",
+        "css=#question_quals_have > div > div:nth-child(31) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans19008.0.28",
+      "Value": "",
+      "Targets": [
+        "id=ans19008.0.28",
+        "name=ans19008.0.28",
+        "xpath=//*[@id=\"ans19008.0.28\"]",
+        "xpath=//input[@id='ans19008.0.28']",
+        "xpath=//div[31]/span/span/input",
+        "css=#ans19008.0.28"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans15135.0.3",
+      "Value": "3",
+      "Targets": [
+        "id=ans15135.0.3",
+        "name=ans15135.0.0",
+        "xpath=//*[@id=\"ans15135.0.3\"]",
+        "xpath=//input[@id='ans15135.0.3']",
+        "xpath=//div[6]/span/span/input",
+        "css=#ans15135.0.3"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_highest_qual_held\"]/div/div[6]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_highest_qual_held\"]/div/div[6]/span/span[2]/label",
+        "xpath=//div[6]/span/span[2]/label",
+        "css=#question_highest_qual_held > div > div:nth-child(6) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans15135.0.3",
+      "Value": "",
+      "Targets": [
+        "id=ans15135.0.3",
+        "name=ans15135.0.0",
+        "xpath=//*[@id=\"ans15135.0.3\"]",
+        "xpath=//input[@id='ans15135.0.3']",
+        "xpath=//div[6]/span/span/input",
+        "css=#ans15135.0.3"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ans15171.0.0",
+      "Value": "0",
+      "Targets": [
+        "id=ans15171.0.0",
+        "name=ans15171.0.0",
+        "xpath=//*[@id=\"ans15171.0.0\"]",
+        "xpath=//input[@id='ans15171.0.0']",
+        "xpath=//span/input",
+        "css=#ans15171.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_current_process\"]/div/div[3]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_current_process\"]/div/div[3]/span/span[2]/label",
+        "xpath=//label",
+        "css=#question_current_process > div > div:nth-child(3) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans15171.0.0",
+      "Value": "",
+      "Targets": [
+        "id=ans15171.0.0",
+        "name=ans15171.0.0",
+        "xpath=//*[@id=\"ans15171.0.0\"]",
+        "xpath=//input[@id='ans15171.0.0']",
+        "xpath=//span/input",
+        "css=#ans15171.0.0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=#question_family_at_uni > div > div:nth-child(7) > span > span.cell-input.cell-sub-column > span > svg > polygon",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_family_at_uni\"]/div/div[7]/span/span/span/svg/polygon",
+        "css=#question_family_at_uni > div > div:nth-child(7) > span > span.cell-input.cell-sub-column > span > svg > polygon"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"suggest_sector_current\"]/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"suggest_sector_current\"]/div",
+        "xpath=//div[3]/div",
+        "css=#suggest_sector_current > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"question_currently_working\"]/div/div[5]/span/span[2]/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_currently_working\"]/div/div[5]/span/span[2]/label",
+        "xpath=//div[5]/span/span[2]/label",
+        "css=#question_currently_working > div > div:nth-child(5) > span > span.cell-text.cell-sub-column > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ans15224.0.2",
+      "Value": "",
+      "Targets": [
+        "id=ans15224.0.2",
+        "name=ans15224.0.0",
+        "xpath=//*[@id=\"ans15224.0.2\"]",
+        "xpath=//input[@id='ans15224.0.2']",
+        "xpath=//div[5]/span/span/input",
+        "css=#ans15224.0.2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=#question_drinkalcohol > div > div.element.odd.groupingCols.OneColumnEl.clickableCell > span > span.cell-input.cell-sub-column > span > svg > circle.fir-selected",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"question_drinkalcohol\"]/div/div[4]/span/span/span/svg/circle[3]",
+        "css=#question_drinkalcohol > div > div.element.odd.groupingCols.OneColumnEl.clickableCell > span > span.cell-input.cell-sub-column > span > svg > circle.fir-selected"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//input[4]",
+      "Value": "",
+      "Targets": [
+        "id=btn_continue",
+        "name=continue",
+        "xpath=//*[@id=\"btn_continue\"]",
+        "xpath=//input[4]",
+        "css=#btn_continue"
+      ],
+      "Description": ""
+    }
+  ]
+}

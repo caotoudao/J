@@ -1,0 +1,1304 @@
+{
+  "Name": "1",
+  "CreationDate": "2023-2-6",
+  "Commands": [
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqIntro_Consent______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqIntro_Consent______\"]/div[2]/div/label/span",
+        "xpath=//span",
+        "css=#qqIntro_Consent______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextIntro_Consent2",
+      "Value": "",
+      "Targets": [
+        "id=nextIntro_Consent2",
+        "name=Next",
+        "xpath=//*[@id=\"nextIntro_Consent2\"]",
+        "xpath=//button[@id='nextIntro_Consent2']",
+        "xpath=//div[2]/button",
+        "css=#nextIntro_Consent2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextSCREEN_12",
+      "Value": "",
+      "Targets": [
+        "id=nextSCREEN_12",
+        "name=Next",
+        "xpath=//*[@id=\"nextSCREEN_12\"]",
+        "xpath=//button[@id='nextSCREEN_12']",
+        "xpath=//div[2]/button",
+        "css=#nextSCREEN_12"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ0_a______\"]/div[2]/div[2]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ0_a______\"]/div[2]/div[2]/label/span",
+        "xpath=//div[2]/label/span",
+        "css=#qqQ0_a______ > div.ui-controlgroup-controls > div:nth-child(2) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ0_a2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ0_a2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ0_a2\"]",
+        "xpath=//button[@id='nextQ0_a2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ0_a2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ0_b______\"]/div[2]/div[4]/label/span/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ0_b______\"]/div[2]/div[4]/label/span/span",
+        "xpath=//div[4]/label/span/span",
+        "css=#qqQ0_b______ > div.ui-controlgroup-controls > div:nth-child(4) > label > span > span.ui-btn-text"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ0_b2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ0_b2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ0_b2\"]",
+        "xpath=//button[@id='nextQ0_b2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ0_b2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ0_c______\"]/div[2]/div[2]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ0_c______\"]/div[2]/div[2]/label/span",
+        "xpath=//div[2]/label/span",
+        "css=#qqQ0_c______ > div.ui-controlgroup-controls > div:nth-child(2) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ0_c2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ0_c2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ0_c2\"]",
+        "xpath=//button[@id='nextQ0_c2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ0_c2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ0_d______\"]/div[2]/div/label/span/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ0_d______\"]/div[2]/div/label/span/span",
+        "xpath=//span/span",
+        "css=#qqQ0_d______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span > span.ui-btn-text"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ0_d2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ0_d2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ0_d2\"]",
+        "xpath=//button[@id='nextQ0_d2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ0_d2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ0_di______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ0_di______\"]/div[2]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ0_di______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ0_di2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ0_di2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ0_di2\"]",
+        "xpath=//button[@id='nextQ0_di2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ0_di2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ0_e______\"]/div[2]/div[6]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ0_e______\"]/div[2]/div[6]/label/span",
+        "xpath=//div[6]/label/span",
+        "css=#qqQ0_e______ > div.ui-controlgroup-controls > div:nth-child(6) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ0_e2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ0_e2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ0_e2\"]",
+        "xpath=//button[@id='nextQ0_e2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ0_e2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ1_a_CHECK______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ1_a_CHECK______\"]/div[2]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ1_a_CHECK______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ1_a_CHECK2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ1_a_CHECK2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ1_a_CHECK2\"]",
+        "xpath=//button[@id='nextQ1_a_CHECK2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ1_a_CHECK2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[4]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[4]/button",
+        "xpath=//button[@value='4']",
+        "xpath=//div[4]/button",
+        "css=#Q4_d______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[3]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[3]/button",
+        "xpath=//button[@value='3']",
+        "xpath=//div[3]/button",
+        "css=#Q4_d______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[3]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[3]/button",
+        "xpath=//button[@value='3']",
+        "xpath=//div[3]/button",
+        "css=#Q4_d______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-focus.ui-btn-hover-a.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[3]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[3]/button",
+        "xpath=//button[@value='3']",
+        "xpath=//div[3]/button",
+        "css=#Q4_d______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-focus.ui-btn-hover-a.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[2]/button",
+        "xpath=//button[@value='2']",
+        "xpath=//fieldset/div[2]/button",
+        "css=#Q4_d______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[2]/button",
+        "xpath=//button[@value='2']",
+        "xpath=//fieldset/div[2]/button",
+        "css=#Q4_d______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[3]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[3]/button",
+        "xpath=//button[@value='3']",
+        "xpath=//div[3]/button",
+        "css=#Q4_d______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[3]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[3]/button",
+        "xpath=//button[@value='3']",
+        "xpath=//div[3]/button",
+        "css=#Q4_d______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q4_d______\"]/fieldset/div[2]/button",
+        "xpath=//button[@value='2']",
+        "xpath=//fieldset/div[2]/button",
+        "css=#Q4_d______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ4_d2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ4_d2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ4_d2\"]",
+        "xpath=//button[@id='nextQ4_d2']",
+        "xpath=//span/div[2]/button",
+        "css=#nextQ4_d2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q5_a______\"]/fieldset/div[4]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q5_a______\"]/fieldset/div[4]/button",
+        "xpath=//button[@value='4']",
+        "xpath=//div[4]/button",
+        "css=#Q5_a______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q5_a______\"]/fieldset/div[4]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q5_a______\"]/fieldset/div[4]/button",
+        "xpath=//button[@value='4']",
+        "xpath=//div[4]/button",
+        "css=#Q5_a______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-focus.ui-btn-hover-a.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q5_a______\"]/fieldset/div[3]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q5_a______\"]/fieldset/div[3]/button",
+        "xpath=//button[@value='3']",
+        "xpath=//div[3]/button",
+        "css=#Q5_a______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q5_a______\"]/fieldset/div[3]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q5_a______\"]/fieldset/div[3]/button",
+        "xpath=//button[@value='3']",
+        "xpath=//div[3]/button",
+        "css=#Q5_a______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q5_a______\"]/fieldset/div[4]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q5_a______\"]/fieldset/div[4]/button",
+        "xpath=//button[@value='4']",
+        "xpath=//div[4]/button",
+        "css=#Q5_a______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ5_a2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ5_a2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ5_a2\"]",
+        "xpath=//button[@id='nextQ5_a2']",
+        "xpath=//span/div[2]/button",
+        "css=#nextQ5_a2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextSCREEN_32",
+      "Value": "",
+      "Targets": [
+        "id=nextSCREEN_32",
+        "name=Next",
+        "xpath=//*[@id=\"nextSCREEN_32\"]",
+        "xpath=//button[@id='nextSCREEN_32']",
+        "xpath=//div[2]/button",
+        "css=#nextSCREEN_32"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ7_CHECK______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ7_CHECK______\"]/div[2]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ7_CHECK______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ7_CHECK2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ7_CHECK2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ7_CHECK2\"]",
+        "xpath=//button[@id='nextQ7_CHECK2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ7_CHECK2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q9____1__",
+      "Value": "",
+      "Targets": [
+        "id=Q9____1__",
+        "xpath=//*[@id=\"Q9____1__\"]",
+        "xpath=//input[@id='Q9____1__']",
+        "xpath=//div/input",
+        "css=#Q9____1__"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=Q9____1__",
+      "Value": "0",
+      "Targets": [
+        "id=Q9____1__",
+        "xpath=//*[@id=\"Q9____1__\"]",
+        "xpath=//input[@id='Q9____1__']",
+        "xpath=//div/input",
+        "css=#Q9____1__"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ92",
+      "Value": "",
+      "Targets": [
+        "id=nextQ92",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ92\"]",
+        "xpath=//button[@id='nextQ92']",
+        "xpath=//div[2]/button",
+        "css=#nextQ92"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ9_CHECK______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ9_CHECK______\"]/div[2]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ9_CHECK______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ9_CHECK2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ9_CHECK2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ9_CHECK2\"]",
+        "xpath=//button[@id='nextQ9_CHECK2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ9_CHECK2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ9_exl______\"]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ9_exl______\"]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ9_exl______ > div > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ9_b2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ9_b2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ9_b2\"]",
+        "xpath=//button[@id='nextQ9_b2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ9_b2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ10_b_2______\"]/div[2]/div[2]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ10_b_2______\"]/div[2]/div[2]/label/span",
+        "xpath=//div[2]/label/span",
+        "css=#qqQ10_b_2______ > div.ui-controlgroup-controls > div:nth-child(2) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ10_b_22",
+      "Value": "",
+      "Targets": [
+        "id=nextQ10_b_22",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ10_b_22\"]",
+        "xpath=//button[@id='nextQ10_b_22']",
+        "xpath=//div[2]/button",
+        "css=#nextQ10_b_22"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ10_b_3______\"]/div[2]/div[2]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ10_b_3______\"]/div[2]/div[2]/label/span",
+        "xpath=//div[2]/label/span",
+        "css=#qqQ10_b_3______ > div.ui-controlgroup-controls > div:nth-child(2) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ10_b_32",
+      "Value": "",
+      "Targets": [
+        "id=nextQ10_b_32",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ10_b_32\"]",
+        "xpath=//button[@id='nextQ10_b_32']",
+        "xpath=//div[2]/button",
+        "css=#nextQ10_b_32"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q10_c______\"]/fieldset/div[4]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q10_c______\"]/fieldset/div[4]/button",
+        "xpath=//button[@value='4']",
+        "xpath=//div[4]/button",
+        "css=#Q10_c______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q10_c______\"]/fieldset/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q10_c______\"]/fieldset/div[2]/button",
+        "xpath=//button[@value='2']",
+        "xpath=//fieldset/div[2]/button",
+        "css=#Q10_c______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q10_c______\"]/fieldset/div[3]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q10_c______\"]/fieldset/div[3]/button",
+        "xpath=//button[@value='3']",
+        "xpath=//div[3]/button",
+        "css=#Q10_c______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q10_c______\"]/fieldset/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q10_c______\"]/fieldset/div[2]/button",
+        "xpath=//button[@value='2']",
+        "xpath=//fieldset/div[2]/button",
+        "css=#Q10_c______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q10_c______\"]/fieldset/div[3]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q10_c______\"]/fieldset/div[3]/button",
+        "xpath=//button[@value='3']",
+        "xpath=//div[3]/button",
+        "css=#Q10_c______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ10_c2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ10_c2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ10_c2\"]",
+        "xpath=//button[@id='nextQ10_c2']",
+        "xpath=//span/div[2]/button",
+        "css=#nextQ10_c2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q11____1__",
+      "Value": "",
+      "Targets": [
+        "id=Q11____1__",
+        "xpath=//*[@id=\"Q11____1__\"]",
+        "xpath=//input[@id='Q11____1__']",
+        "xpath=//div/input",
+        "css=#Q11____1__"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=Q11____1__",
+      "Value": "0",
+      "Targets": [
+        "id=Q11____1__",
+        "xpath=//*[@id=\"Q11____1__\"]",
+        "xpath=//input[@id='Q11____1__']",
+        "xpath=//div/input",
+        "css=#Q11____1__"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ112",
+      "Value": "",
+      "Targets": [
+        "id=nextQ112",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ112\"]",
+        "xpath=//button[@id='nextQ112']",
+        "xpath=//div[2]/button",
+        "css=#nextQ112"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ11x_CHECK______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ11x_CHECK______\"]/div[2]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ11x_CHECK______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ11x_CHECK2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ11x_CHECK2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ11x_CHECK2\"]",
+        "xpath=//button[@id='nextQ11x_CHECK2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ11x_CHECK2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ12______\"]/div[2]/div[4]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ12______\"]/div[2]/div[4]/label/span",
+        "xpath=//div[4]/label/span",
+        "css=#qqQ12______ > div.ui-controlgroup-controls > div:nth-child(4) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ122",
+      "Value": "",
+      "Targets": [
+        "id=nextQ122",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ122\"]",
+        "xpath=//button[@id='nextQ122']",
+        "xpath=//div[2]/button",
+        "css=#nextQ122"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ12a_iii_DK______\"]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ12a_iii_DK______\"]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ12a_iii_DK______ > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ12a_iii2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ12a_iii2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ12a_iii2\"]",
+        "xpath=//button[@id='nextQ12a_iii2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ12a_iii2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q12a_vii______\"]/fieldset/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q12a_vii______\"]/fieldset/div[2]/button",
+        "xpath=//button[@value='2']",
+        "xpath=//fieldset/div[2]/button",
+        "css=#Q12a_vii______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q12a_vii______\"]/fieldset/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q12a_vii______\"]/fieldset/div[2]/button",
+        "xpath=//button[@value='2']",
+        "xpath=//fieldset/div[2]/button",
+        "css=#Q12a_vii______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q12a_vii______\"]/fieldset/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q12a_vii______\"]/fieldset/div[2]/button",
+        "xpath=//button[@value='2']",
+        "xpath=//fieldset/div[2]/button",
+        "css=#Q12a_vii______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"Q12a_vii______\"]/fieldset/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"Q12a_vii______\"]/fieldset/div[2]/button",
+        "xpath=//button[@value='2']",
+        "xpath=//fieldset/div[2]/button",
+        "css=#Q12a_vii______ > fieldset > div.ui-btn.ui-fullsize.ui-btn-block.ui-btn-hover-a.ui-focus.ui-btn-up-a > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ12a_vii2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ12a_vii2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ12a_vii2\"]",
+        "xpath=//button[@id='nextQ12a_vii2']",
+        "xpath=//span/div[2]/button",
+        "css=#nextQ12a_vii2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ12_b_i______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ12_b_i______\"]/div[2]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ12_b_i______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ12_b_i2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ12_b_i2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ12_b_i2\"]",
+        "xpath=//button[@id='nextQ12_b_i2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ12_b_i2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ12_f______\"]/div[2]/div[2]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ12_f______\"]/div[2]/div[2]/label/span",
+        "xpath=//div[2]/label/span",
+        "css=#qqQ12_f______ > div.ui-controlgroup-controls > div:nth-child(2) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ12_f2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ12_f2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ12_f2\"]",
+        "xpath=//button[@id='nextQ12_f2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ12_f2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextSCREEN_42",
+      "Value": "",
+      "Targets": [
+        "id=nextSCREEN_42",
+        "name=Next",
+        "xpath=//*[@id=\"nextSCREEN_42\"]",
+        "xpath=//button[@id='nextSCREEN_42']",
+        "xpath=//div[2]/button",
+        "css=#nextSCREEN_42"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ16______\"]/div[2]/div[4]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ16______\"]/div[2]/div[4]/label/span",
+        "xpath=//div[4]/label/span",
+        "css=#qqQ16______ > div.ui-controlgroup-controls > div:nth-child(4) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ162",
+      "Value": "",
+      "Targets": [
+        "id=nextQ162",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ162\"]",
+        "xpath=//button[@id='nextQ162']",
+        "xpath=//div[2]/button",
+        "css=#nextQ162"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[2]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[2]/label/span",
+        "xpath=//div[2]/label/span",
+        "css=#qqQ16_b______ > div.ui-controlgroup-controls > div:nth-child(2) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[3]/label/span/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[3]/label/span/span",
+        "xpath=//div[3]/label/span/span",
+        "css=#qqQ16_b______ > div.ui-controlgroup-controls > div:nth-child(3) > label > span > span.ui-btn-text"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[4]/label/span/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[4]/label/span/span",
+        "xpath=//div[4]/label/span/span",
+        "css=#qqQ16_b______ > div.ui-controlgroup-controls > div:nth-child(4) > label > span > span.ui-btn-text"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[9]/label/span/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[9]/label/span/span",
+        "xpath=//div[9]/label/span/span",
+        "css=#qqQ16_b______ > div.ui-controlgroup-controls > div:nth-child(9) > label > span > span.ui-btn-text"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[10]/label/span/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[10]/label/span/span",
+        "xpath=//div[10]/label/span/span",
+        "css=#qqQ16_b______ > div.ui-controlgroup-controls > div:nth-child(10) > label > span > span.ui-btn-text"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[11]/label/span/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[11]/label/span/span",
+        "xpath=//div[11]/label/span/span",
+        "css=#qqQ16_b______ > div.ui-controlgroup-controls > div:nth-child(11) > label > span > span.ui-btn-text"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[15]/label/span/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ16_b______\"]/div[2]/div[15]/label/span/span",
+        "xpath=//div[15]/label/span/span",
+        "css=#qqQ16_b______ > div.ui-controlgroup-controls > div:nth-child(15) > label > span > span.ui-btn-text"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ16_b2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ16_b2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ16_b2\"]",
+        "xpath=//button[@id='nextQ16_b2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ16_b2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ18_e______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ18_e______\"]/div[2]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ18_e______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ18_e2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ18_e2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ18_e2\"]",
+        "xpath=//button[@id='nextQ18_e2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ18_e2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ18_f______\"]/div[2]/div[4]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ18_f______\"]/div[2]/div[4]/label/span",
+        "xpath=//div[4]/label/span",
+        "css=#qqQ18_f______ > div.ui-controlgroup-controls > div:nth-child(4) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ18_f2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ18_f2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ18_f2\"]",
+        "xpath=//button[@id='nextQ18_f2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ18_f2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ18_g______\"]/div[2]/div[2]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ18_g______\"]/div[2]/div[2]/label/span",
+        "xpath=//div[2]/label/span",
+        "css=#qqQ18_g______ > div.ui-controlgroup-controls > div:nth-child(2) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ18_g2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ18_g2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ18_g2\"]",
+        "xpath=//button[@id='nextQ18_g2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ18_g2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextSCREEN_52",
+      "Value": "",
+      "Targets": [
+        "id=nextSCREEN_52",
+        "name=Next",
+        "xpath=//*[@id=\"nextSCREEN_52\"]",
+        "xpath=//button[@id='nextSCREEN_52']",
+        "xpath=//div[2]/button",
+        "css=#nextSCREEN_52"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ21______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ21______\"]/div[2]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ21______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ212",
+      "Value": "",
+      "Targets": [
+        "id=nextQ212",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ212\"]",
+        "xpath=//button[@id='nextQ212']",
+        "xpath=//div[2]/button",
+        "css=#nextQ212"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ21_b______\"]/div[2]/div[2]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ21_b______\"]/div[2]/div[2]/label/span",
+        "xpath=//div[2]/label/span",
+        "css=#qqQ21_b______ > div.ui-controlgroup-controls > div:nth-child(2) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ21_b2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ21_b2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ21_b2\"]",
+        "xpath=//button[@id='nextQ21_b2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ21_b2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ21_e______\"]/div[2]/div[2]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ21_e______\"]/div[2]/div[2]/label/span",
+        "xpath=//div[2]/label/span",
+        "css=#qqQ21_e______ > div.ui-controlgroup-controls > div:nth-child(2) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ21_e2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ21_e2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ21_e2\"]",
+        "xpath=//button[@id='nextQ21_e2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ21_e2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ21_e_i______\"]/div[2]/div[2]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ21_e_i______\"]/div[2]/div[2]/label/span",
+        "xpath=//div[2]/label/span",
+        "css=#qqQ21_e_i______ > div.ui-controlgroup-controls > div:nth-child(2) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ21_e_i2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ21_e_i2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ21_e_i2\"]",
+        "xpath=//button[@id='nextQ21_e_i2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ21_e_i2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ21_f______\"]/div[2]/div[6]/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ21_f______\"]/div[2]/div[6]/label/span",
+        "xpath=//div[6]/label/span",
+        "css=#qqQ21_f______ > div.ui-controlgroup-controls > div:nth-child(6) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ21_f2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ21_f2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ21_f2\"]",
+        "xpath=//button[@id='nextQ21_f2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ21_f2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ20_a______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ20_a______\"]/div[2]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ20_a______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextQ20_a2",
+      "Value": "",
+      "Targets": [
+        "id=nextQ20_a2",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ20_a2\"]",
+        "xpath=//button[@id='nextQ20_a2']",
+        "xpath=//div[2]/button",
+        "css=#nextQ20_a2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"qqQ22______\"]/div[2]/div/label/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"qqQ22______\"]/div[2]/div/label/span",
+        "xpath=//label/span",
+        "css=#qqQ22______ > div.ui-controlgroup-controls > div:nth-child(1) > label > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=nextQ222",
+      "Value": "",
+      "Targets": [
+        "id=nextQ222",
+        "name=Next",
+        "xpath=//*[@id=\"nextQ222\"]",
+        "xpath=//button[@id='nextQ222']",
+        "xpath=//div[2]/button",
+        "css=#nextQ222"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=nextThanks2",
+      "Value": "",
+      "Targets": [
+        "id=nextThanks2",
+        "name=Finish",
+        "xpath=//*[@id=\"nextThanks2\"]",
+        "xpath=//button[@id='nextThanks2']",
+        "xpath=//div[2]/button",
+        "css=#nextThanks2"
+      ],
+      "Description": ""
+    }
+  ]
+}

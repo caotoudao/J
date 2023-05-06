@@ -2941,48 +2941,7 @@
       ],
       "Description": ""
     },
-    {
-      "Command": "type",
-      "Target": "id=n181A0",
-      "Value": "1",
-      "Targets": [
-        "id=n181A0",
-        "name=n181A",
-        "xpath=//*[@id=\"n181A0\"]",
-        "xpath=//input[@id='n181A0']",
-        "xpath=//input",
-        "css=#n181A0"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=n181A0",
-      "Value": "",
-      "Targets": [
-        "id=n181A0",
-        "name=n181A",
-        "xpath=//*[@id=\"n181A0\"]",
-        "xpath=//input[@id='n181A0']",
-        "xpath=//input",
-        "css=#n181A0"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=btnNext",
-      "Value": "",
-      "Targets": [
-        "id=btnNext",
-        "name=btnNext",
-        "xpath=//*[@id=\"btnNext\"]",
-        "xpath=//input[@id='btnNext']",
-        "xpath=//div[4]/div/input[2]",
-        "css=#btnNext"
-      ],
-      "Description": ""
-    },
+    
     {
       "Command": "click",
       "Target": "xpath=//*[@id=\"UpdatePanel1\"]/div/table/tbody/tr/td",

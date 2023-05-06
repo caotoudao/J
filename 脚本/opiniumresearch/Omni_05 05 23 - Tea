@@ -2373,6 +2373,20 @@
     },
     {
       "Command": "click",
+      "Target": "id=btnNext",
+      "Value": "",
+      "Targets": [
+        "id=btnNext",
+        "name=btnNext",
+        "xpath=//*[@id=\"btnNext\"]",
+        "xpath=//input[@id='btnNext']",
+        "xpath=//div[4]/div/input[2]",
+        "css=#btnNext"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
       "Target": "id=n120A1",
       "Value": "",
       "Targets": [

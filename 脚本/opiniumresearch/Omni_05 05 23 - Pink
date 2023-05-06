@@ -358,6 +358,12 @@
       "Description": ""
     },
     {
+      "Command": "pause",
+      "Target": "",
+      "Value": "",
+      "Description": ""
+    },
+    {
       "Command": "click",
       "Target": "xpath=//*[@id=\"UpdatePanel1\"]/div/table/tbody/tr[2]/td",
       "Value": "",

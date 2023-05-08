@@ -1,0 +1,11 @@
+seed:  0D4CEB89E90BDBBC4534312109B854657378E338A625FE429795374E972F195E
+
+1.ask 2.guard 3.tiny 4.spirit 
+5.sad 6.taste 7.below 8.mail 
+9.canal 10.evidence 11.bench 12.slab 
+13.daring 14.immense 15.tip 16.seven 
+17.wrestle 18.believe 19.torch 20.hub 
+21.truly 22.nurse 23.grace 24.supreme
+
+
+passwork:  asdvfduhiewqkdm230894urie

@@ -815,17 +815,6 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"UpdatePanel1\"]/div/table/tbody/tr[2]/td/font",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"UpdatePanel1\"]/div/table/tbody/tr[2]/td/font",
-        "xpath=//tr[2]/td/font",
-        "css=#UpdatePanel1 > div > table > tbody > tr:nth-child(2) > td > font"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
       "Target": "xpath=//*[@id=\"UpdatePanel1\"]/div/table/tbody/tr[3]/td/font",
       "Value": "",
       "Targets": [

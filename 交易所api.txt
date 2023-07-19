@@ -1,0 +1,8 @@
+抹茶
+Access Key  mx0vglsaDjneez90ZL
+Secret Key  56486c1d3ca64aacb126f8c508860f58
+
+Bitget
+Passphrase  asjifnwlm32nfDFj2pjdSasd12edS3
+APIKey      bg_b954e397d653c7dd7b34c0ed394e5e71
+SecretKey   4247e9ab73cf632f188883c00c19cadb03020c43f8b9335e86b03c33613d8c44

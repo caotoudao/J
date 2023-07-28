@@ -1,0 +1,12 @@
+1.reunion
+2.ride
+3.cherry
+4.emotion
+5.speed
+6.stumble
+7.receive
+8.sell
+9.poet
+10.flat
+11.liberty
+12.unaware

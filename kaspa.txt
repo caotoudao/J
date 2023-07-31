@@ -2,6 +2,6 @@ secret: asdjAD2390reed_dk23@3
 
 
 
-1.comfort 2.vapor 3.chronic 4.check
-5.athlete 6.label 7.neck 8.space
-9.upgrade 10.wagon 11.stamp 12.garage
+comfort vapor chronic check
+athlete label neck space
+upgrade wagon stamp garage

@@ -1,7 +1,10 @@
-Mnemonic: lizard refuse merit width double bacon honey source lesson know live tag
+Public key: 0xce33ee99858224317523f3a16847d24e83210a523c1ed4c31641356a483fe13a
+Secret seed: comfort deliver since inside obtain slam distance pill cheese angry kid lava
+Address: d1Gv5rS1oK5sPR3GPiGgtmewmnrp8G9ubEvGinutGZYtGpoZu
 
-Jhy!147258369
-
-临时
-stumble family battle submit force lunar hover visual comfort slogan ancient impose
-d1DkwGC267jPdestYaxKKZ78FtH6XWEEhNXvgBAqfw2xKnYmy
+Network ID:        71
+  Secret seed:       0xb860ada957069f7862da2d6cf56df72cc60397439a6141409ba54c1258b86371
+  Public key (hex):  0xe56bdf5d80462711318b8cf8fd1cbb82856faaea757b0eece85691715be8530e
+  Account ID:        0xe56bdf5d80462711318b8cf8fd1cbb82856faaea757b0eece85691715be8530e
+  Public key (SS58): d1HSXa9DcCGUyK9J6fpaZDJqRi2GFXwJmiGwVuhawSaE53crn
+  SS58 Address:      d1HSXa9DcCGUyK9J6fpaZDJqRi2GFXwJmiGwVuhawSaE53crn

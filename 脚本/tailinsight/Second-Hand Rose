@@ -1,0 +1,1436 @@
+{
+  "Name": "2",
+  "CreationDate": "2022-6-23",
+  "Commands": [
+    {
+      "Command": "click",
+      "Target": "id=Q1_r1_9_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q1_r1_9_graphical",
+        "xpath=//*[@id=\"Q1_r1_9_graphical\"]",
+        "xpath=//div[@id='Q1_r1_9_graphical']",
+        "xpath=//tr[2]/td[10]/div",
+        "css=#Q1_r1_9_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q1_r2_10_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q1_r2_10_graphical",
+        "xpath=//*[@id=\"Q1_r2_10_graphical\"]",
+        "xpath=//div[@id='Q1_r2_10_graphical']",
+        "xpath=//tr[3]/td[11]/div",
+        "css=#Q1_r2_10_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q2_6_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q2_6_graphical",
+        "xpath=//*[@id=\"Q2_6_graphical\"]",
+        "xpath=//div[@id='Q2_6_graphical']",
+        "xpath=//tr[6]/td/div",
+        "css=#Q2_6_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q2_5_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q2_5_graphical",
+        "xpath=//*[@id=\"Q2_5_graphical\"]",
+        "xpath=//div[@id='Q2_5_graphical']",
+        "xpath=//tr[5]/td/div",
+        "css=#Q2_5_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q2_3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q2_3_graphical",
+        "xpath=//*[@id=\"Q2_3_graphical\"]",
+        "xpath=//div[@id='Q2_3_graphical']",
+        "xpath=//tr[3]/td/div",
+        "css=#Q2_3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//html",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/html",
+        "xpath=//html",
+        "css= > html"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r2_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r2_c1_graphical",
+        "xpath=//*[@id=\"Q3_r2_c1_graphical\"]",
+        "xpath=//div[@id='Q3_r2_c1_graphical']",
+        "xpath=//tr[3]/td[2]/div",
+        "css=#Q3_r2_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r1_c4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r1_c4_graphical",
+        "xpath=//*[@id=\"Q3_r1_c4_graphical\"]",
+        "xpath=//div[@id='Q3_r1_c4_graphical']",
+        "xpath=//tr[2]/td[5]/div",
+        "css=#Q3_r1_c4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r3_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r3_c2_graphical",
+        "xpath=//*[@id=\"Q3_r3_c2_graphical\"]",
+        "xpath=//div[@id='Q3_r3_c2_graphical']",
+        "xpath=//tr[4]/td[3]/div",
+        "css=#Q3_r3_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r4_c4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r4_c4_graphical",
+        "xpath=//*[@id=\"Q3_r4_c4_graphical\"]",
+        "xpath=//div[@id='Q3_r4_c4_graphical']",
+        "xpath=//tr[5]/td[5]/div",
+        "css=#Q3_r4_c4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r5_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r5_c1_graphical",
+        "xpath=//*[@id=\"Q3_r5_c1_graphical\"]",
+        "xpath=//div[@id='Q3_r5_c1_graphical']",
+        "xpath=//tr[6]/td[2]/div",
+        "css=#Q3_r5_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r5_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r5_c2_graphical",
+        "xpath=//*[@id=\"Q3_r5_c2_graphical\"]",
+        "xpath=//div[@id='Q3_r5_c2_graphical']",
+        "xpath=//tr[6]/td[3]/div",
+        "css=#Q3_r5_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r6_c4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r6_c4_graphical",
+        "xpath=//*[@id=\"Q3_r6_c4_graphical\"]",
+        "xpath=//div[@id='Q3_r6_c4_graphical']",
+        "xpath=//tr[7]/td[5]/div",
+        "css=#Q3_r6_c4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r7_c4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r7_c4_graphical",
+        "xpath=//*[@id=\"Q3_r7_c4_graphical\"]",
+        "xpath=//div[@id='Q3_r7_c4_graphical']",
+        "xpath=//tr[8]/td[5]/div",
+        "css=#Q3_r7_c4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r8_c4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r8_c4_graphical",
+        "xpath=//*[@id=\"Q3_r8_c4_graphical\"]",
+        "xpath=//div[@id='Q3_r8_c4_graphical']",
+        "xpath=//tr[9]/td[5]/div",
+        "css=#Q3_r8_c4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r9_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r9_c1_graphical",
+        "xpath=//*[@id=\"Q3_r9_c1_graphical\"]",
+        "xpath=//div[@id='Q3_r9_c1_graphical']",
+        "xpath=//tr[10]/td[2]/div",
+        "css=#Q3_r9_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r10_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r10_c1_graphical",
+        "xpath=//*[@id=\"Q3_r10_c1_graphical\"]",
+        "xpath=//div[@id='Q3_r10_c1_graphical']",
+        "xpath=//tr[11]/td[2]/div",
+        "css=#Q3_r10_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r11_c4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r11_c4_graphical",
+        "xpath=//*[@id=\"Q3_r11_c4_graphical\"]",
+        "xpath=//div[@id='Q3_r11_c4_graphical']",
+        "xpath=//tr[12]/td[5]/div",
+        "css=#Q3_r11_c4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r12_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r12_c1_graphical",
+        "xpath=//*[@id=\"Q3_r12_c1_graphical\"]",
+        "xpath=//div[@id='Q3_r12_c1_graphical']",
+        "xpath=//tr[13]/td[2]/div",
+        "css=#Q3_r12_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q3_r12_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q3_r12_c2_graphical",
+        "xpath=//*[@id=\"Q3_r12_c2_graphical\"]",
+        "xpath=//div[@id='Q3_r12_c2_graphical']",
+        "xpath=//tr[13]/td[3]/div",
+        "css=#Q3_r12_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q4_4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q4_4_graphical",
+        "xpath=//*[@id=\"Q4_4_graphical\"]",
+        "xpath=//div[@id='Q4_4_graphical']",
+        "xpath=//tr[4]/td/div",
+        "css=#Q4_4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q5_r3_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q5_r3_c1_graphical",
+        "xpath=//*[@id=\"Q5_r3_c1_graphical\"]",
+        "xpath=//div[@id='Q5_r3_c1_graphical']",
+        "xpath=//tr[8]/td[2]/div",
+        "css=#Q5_r3_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q5_r1_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q5_r1_c1_graphical",
+        "xpath=//*[@id=\"Q5_r1_c1_graphical\"]",
+        "xpath=//div[@id='Q5_r1_c1_graphical']",
+        "xpath=//tr[6]/td[2]/div",
+        "css=#Q5_r1_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q5_r6_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q5_r6_c2_graphical",
+        "xpath=//*[@id=\"Q5_r6_c2_graphical\"]",
+        "xpath=//div[@id='Q5_r6_c2_graphical']",
+        "xpath=//tr[7]/td[3]/div",
+        "css=#Q5_r6_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q5_r2_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q5_r2_c2_graphical",
+        "xpath=//*[@id=\"Q5_r2_c2_graphical\"]",
+        "xpath=//div[@id='Q5_r2_c2_graphical']",
+        "xpath=//tr[2]/td[3]/div",
+        "css=#Q5_r2_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r11_1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r11_1_graphical",
+        "xpath=//*[@id=\"Q6_r11_1_graphical\"]",
+        "xpath=//div[@id='Q6_r11_1_graphical']",
+        "xpath=//tr[2]/td[2]/div",
+        "css=#Q6_r11_1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r15_4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r15_4_graphical",
+        "xpath=//*[@id=\"Q6_r15_4_graphical\"]",
+        "xpath=//div[@id='Q6_r15_4_graphical']",
+        "xpath=//tr[3]/td[5]/div",
+        "css=#Q6_r15_4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r4_3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r4_3_graphical",
+        "xpath=//*[@id=\"Q6_r4_3_graphical\"]",
+        "xpath=//div[@id='Q6_r4_3_graphical']",
+        "xpath=//tr[4]/td[4]/div",
+        "css=#Q6_r4_3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r8_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r8_2_graphical",
+        "xpath=//*[@id=\"Q6_r8_2_graphical\"]",
+        "xpath=//div[@id='Q6_r8_2_graphical']",
+        "xpath=//tr[5]/td[3]/div",
+        "css=#Q6_r8_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r5_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r5_2_graphical",
+        "xpath=//*[@id=\"Q6_r5_2_graphical\"]",
+        "xpath=//div[@id='Q6_r5_2_graphical']",
+        "xpath=//tr[6]/td[3]/div",
+        "css=#Q6_r5_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r2_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r2_2_graphical",
+        "xpath=//*[@id=\"Q6_r2_2_graphical\"]",
+        "xpath=//div[@id='Q6_r2_2_graphical']",
+        "xpath=//tr[7]/td[3]/div",
+        "css=#Q6_r2_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r1_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r1_2_graphical",
+        "xpath=//*[@id=\"Q6_r1_2_graphical\"]",
+        "xpath=//div[@id='Q6_r1_2_graphical']",
+        "xpath=//tr[8]/td[3]/div",
+        "css=#Q6_r1_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r7_3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r7_3_graphical",
+        "xpath=//*[@id=\"Q6_r7_3_graphical\"]",
+        "xpath=//div[@id='Q6_r7_3_graphical']",
+        "xpath=//tr[9]/td[4]/div",
+        "css=#Q6_r7_3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r9_3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r9_3_graphical",
+        "xpath=//*[@id=\"Q6_r9_3_graphical\"]",
+        "xpath=//div[@id='Q6_r9_3_graphical']",
+        "xpath=//tr[10]/td[4]/div",
+        "css=#Q6_r9_3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r10_3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r10_3_graphical",
+        "xpath=//*[@id=\"Q6_r10_3_graphical\"]",
+        "xpath=//div[@id='Q6_r10_3_graphical']",
+        "xpath=//tr[11]/td[4]/div",
+        "css=#Q6_r10_3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r6_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r6_2_graphical",
+        "xpath=//*[@id=\"Q6_r6_2_graphical\"]",
+        "xpath=//div[@id='Q6_r6_2_graphical']",
+        "xpath=//tr[12]/td[3]/div",
+        "css=#Q6_r6_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r3_3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r3_3_graphical",
+        "xpath=//*[@id=\"Q6_r3_3_graphical\"]",
+        "xpath=//div[@id='Q6_r3_3_graphical']",
+        "xpath=//tr[13]/td[4]/div",
+        "css=#Q6_r3_3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r12_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r12_2_graphical",
+        "xpath=//*[@id=\"Q6_r12_2_graphical\"]",
+        "xpath=//div[@id='Q6_r12_2_graphical']",
+        "xpath=//tr[14]/td[3]/div",
+        "css=#Q6_r12_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r14_3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r14_3_graphical",
+        "xpath=//*[@id=\"Q6_r14_3_graphical\"]",
+        "xpath=//div[@id='Q6_r14_3_graphical']",
+        "xpath=//tr[15]/td[4]/div",
+        "css=#Q6_r14_3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q6_r13_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q6_r13_2_graphical",
+        "xpath=//*[@id=\"Q6_r13_2_graphical\"]",
+        "xpath=//div[@id='Q6_r13_2_graphical']",
+        "xpath=//tr[16]/td[3]/div",
+        "css=#Q6_r13_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q7_4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q7_4_graphical",
+        "xpath=//*[@id=\"Q7_4_graphical\"]",
+        "xpath=//div[@id='Q7_4_graphical']",
+        "xpath=//tr[4]/td/div",
+        "css=#Q7_4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q7_3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q7_3_graphical",
+        "xpath=//*[@id=\"Q7_3_graphical\"]",
+        "xpath=//div[@id='Q7_3_graphical']",
+        "xpath=//tr[7]/td/div",
+        "css=#Q7_3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q7_1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q7_1_graphical",
+        "xpath=//*[@id=\"Q7_1_graphical\"]",
+        "xpath=//div[@id='Q7_1_graphical']",
+        "xpath=//tr[8]/td/div",
+        "css=#Q7_1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q7_7_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q7_7_graphical",
+        "xpath=//*[@id=\"Q7_7_graphical\"]",
+        "xpath=//div[@id='Q7_7_graphical']",
+        "xpath=//tr[6]/td/div",
+        "css=#Q7_7_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q7_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q7_2_graphical",
+        "xpath=//*[@id=\"Q7_2_graphical\"]",
+        "xpath=//div[@id='Q7_2_graphical']",
+        "xpath=//tr[5]/td/div",
+        "css=#Q7_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q7_5_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q7_5_graphical",
+        "xpath=//*[@id=\"Q7_5_graphical\"]",
+        "xpath=//div[@id='Q7_5_graphical']",
+        "xpath=//tr[3]/td/div",
+        "css=#Q7_5_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q8_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q8_2_graphical",
+        "xpath=//*[@id=\"Q8_2_graphical\"]",
+        "xpath=//div[@id='Q8_2_graphical']",
+        "xpath=//tr[2]/td/div",
+        "css=#Q8_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q9_1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q9_1_graphical",
+        "xpath=//*[@id=\"Q9_1_graphical\"]",
+        "xpath=//div[@id='Q9_1_graphical']",
+        "xpath=//td/div",
+        "css=#Q9_1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q10_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q10_2_graphical",
+        "xpath=//*[@id=\"Q10_2_graphical\"]",
+        "xpath=//div[@id='Q10_2_graphical']",
+        "xpath=//tr[2]/td/div",
+        "css=#Q10_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q10_1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q10_1_graphical",
+        "xpath=//*[@id=\"Q10_1_graphical\"]",
+        "xpath=//div[@id='Q10_1_graphical']",
+        "xpath=//tr[3]/td/div",
+        "css=#Q10_1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q10_4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q10_4_graphical",
+        "xpath=//*[@id=\"Q10_4_graphical\"]",
+        "xpath=//div[@id='Q10_4_graphical']",
+        "xpath=//tr[4]/td/div",
+        "css=#Q10_4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q10_3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q10_3_graphical",
+        "xpath=//*[@id=\"Q10_3_graphical\"]",
+        "xpath=//div[@id='Q10_3_graphical']",
+        "xpath=//tr[5]/td/div",
+        "css=#Q10_3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q10_6_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q10_6_graphical",
+        "xpath=//*[@id=\"Q10_6_graphical\"]",
+        "xpath=//div[@id='Q10_6_graphical']",
+        "xpath=//tr[6]/td/div",
+        "css=#Q10_6_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q11_1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q11_1_graphical",
+        "xpath=//*[@id=\"Q11_1_graphical\"]",
+        "xpath=//div[@id='Q11_1_graphical']",
+        "xpath=//tr[7]/td/div",
+        "css=#Q11_1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q11_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q11_2_graphical",
+        "xpath=//*[@id=\"Q11_2_graphical\"]",
+        "xpath=//div[@id='Q11_2_graphical']",
+        "xpath=//tr[8]/td/div",
+        "css=#Q11_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q11_5_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q11_5_graphical",
+        "xpath=//*[@id=\"Q11_5_graphical\"]",
+        "xpath=//div[@id='Q11_5_graphical']",
+        "xpath=//tr[4]/td/div",
+        "css=#Q11_5_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q11_4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q11_4_graphical",
+        "xpath=//*[@id=\"Q11_4_graphical\"]",
+        "xpath=//div[@id='Q11_4_graphical']",
+        "xpath=//td/div",
+        "css=#Q11_4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r6_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r6_c1_graphical",
+        "xpath=//*[@id=\"Q12_r6_c1_graphical\"]",
+        "xpath=//div[@id='Q12_r6_c1_graphical']",
+        "xpath=//tr[3]/td[2]/div",
+        "css=#Q12_r6_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r2_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r2_c1_graphical",
+        "xpath=//*[@id=\"Q12_r2_c1_graphical\"]",
+        "xpath=//div[@id='Q12_r2_c1_graphical']",
+        "xpath=//tr[4]/td[2]/div",
+        "css=#Q12_r2_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r2_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r2_c2_graphical",
+        "xpath=//*[@id=\"Q12_r2_c2_graphical\"]",
+        "xpath=//div[@id='Q12_r2_c2_graphical']",
+        "xpath=//tr[4]/td[3]/div",
+        "css=#Q12_r2_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r8_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r8_c1_graphical",
+        "xpath=//*[@id=\"Q12_r8_c1_graphical\"]",
+        "xpath=//div[@id='Q12_r8_c1_graphical']",
+        "xpath=//tr[5]/td[2]/div",
+        "css=#Q12_r8_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r7_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r7_c1_graphical",
+        "xpath=//*[@id=\"Q12_r7_c1_graphical\"]",
+        "xpath=//div[@id='Q12_r7_c1_graphical']",
+        "xpath=//tr[6]/td[2]/div",
+        "css=#Q12_r7_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r4_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r4_c1_graphical",
+        "xpath=//*[@id=\"Q12_r4_c1_graphical\"]",
+        "xpath=//div[@id='Q12_r4_c1_graphical']",
+        "xpath=//tr[7]/td[2]/div",
+        "css=#Q12_r4_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r5_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r5_c1_graphical",
+        "xpath=//*[@id=\"Q12_r5_c1_graphical\"]",
+        "xpath=//div[@id='Q12_r5_c1_graphical']",
+        "xpath=//tr[8]/td[2]/div",
+        "css=#Q12_r5_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r3_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r3_c1_graphical",
+        "xpath=//*[@id=\"Q12_r3_c1_graphical\"]",
+        "xpath=//div[@id='Q12_r3_c1_graphical']",
+        "xpath=//tr[9]/td[2]/div",
+        "css=#Q12_r3_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r1_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r1_c1_graphical",
+        "xpath=//*[@id=\"Q12_r1_c1_graphical\"]",
+        "xpath=//div[@id='Q12_r1_c1_graphical']",
+        "xpath=//tr[10]/td[2]/div",
+        "css=#Q12_r1_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r9_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r9_c1_graphical",
+        "xpath=//*[@id=\"Q12_r9_c1_graphical\"]",
+        "xpath=//div[@id='Q12_r9_c1_graphical']",
+        "xpath=//tr[11]/td[2]/div",
+        "css=#Q12_r9_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r10_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r10_c1_graphical",
+        "xpath=//*[@id=\"Q12_r10_c1_graphical\"]",
+        "xpath=//div[@id='Q12_r10_c1_graphical']",
+        "xpath=//tr[2]/td[2]/div",
+        "css=#Q12_r10_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r10_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r10_c2_graphical",
+        "xpath=//*[@id=\"Q12_r10_c2_graphical\"]",
+        "xpath=//div[@id='Q12_r10_c2_graphical']",
+        "xpath=//tr[2]/td[3]/div",
+        "css=#Q12_r10_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r6_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r6_c2_graphical",
+        "xpath=//*[@id=\"Q12_r6_c2_graphical\"]",
+        "xpath=//div[@id='Q12_r6_c2_graphical']",
+        "xpath=//tr[3]/td[3]/div",
+        "css=#Q12_r6_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r4_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r4_c2_graphical",
+        "xpath=//*[@id=\"Q12_r4_c2_graphical\"]",
+        "xpath=//div[@id='Q12_r4_c2_graphical']",
+        "xpath=//tr[7]/td[3]/div",
+        "css=#Q12_r4_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q12_r9_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q12_r9_c2_graphical",
+        "xpath=//*[@id=\"Q12_r9_c2_graphical\"]",
+        "xpath=//div[@id='Q12_r9_c2_graphical']",
+        "xpath=//tr[11]/td[3]/div",
+        "css=#Q12_r9_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r2_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r2_c1_graphical",
+        "xpath=//*[@id=\"Q13_r2_c1_graphical\"]",
+        "xpath=//div[@id='Q13_r2_c1_graphical']",
+        "xpath=//tr[2]/td[2]/div",
+        "css=#Q13_r2_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r2_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r2_c2_graphical",
+        "xpath=//*[@id=\"Q13_r2_c2_graphical\"]",
+        "xpath=//div[@id='Q13_r2_c2_graphical']",
+        "xpath=//tr[2]/td[3]/div",
+        "css=#Q13_r2_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r1_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r1_c1_graphical",
+        "xpath=//*[@id=\"Q13_r1_c1_graphical\"]",
+        "xpath=//div[@id='Q13_r1_c1_graphical']",
+        "xpath=//tr[3]/td[2]/div",
+        "css=#Q13_r1_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r1_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r1_c2_graphical",
+        "xpath=//*[@id=\"Q13_r1_c2_graphical\"]",
+        "xpath=//div[@id='Q13_r1_c2_graphical']",
+        "xpath=//tr[3]/td[3]/div",
+        "css=#Q13_r1_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r8_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r8_c1_graphical",
+        "xpath=//*[@id=\"Q13_r8_c1_graphical\"]",
+        "xpath=//div[@id='Q13_r8_c1_graphical']",
+        "xpath=//tr[4]/td[2]/div",
+        "css=#Q13_r8_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r9_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r9_c1_graphical",
+        "xpath=//*[@id=\"Q13_r9_c1_graphical\"]",
+        "xpath=//div[@id='Q13_r9_c1_graphical']",
+        "xpath=//tr[7]/td[2]/div",
+        "css=#Q13_r9_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r9_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r9_c2_graphical",
+        "xpath=//*[@id=\"Q13_r9_c2_graphical\"]",
+        "xpath=//div[@id='Q13_r9_c2_graphical']",
+        "xpath=//tr[7]/td[3]/div",
+        "css=#Q13_r9_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r3_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r3_c2_graphical",
+        "xpath=//*[@id=\"Q13_r3_c2_graphical\"]",
+        "xpath=//div[@id='Q13_r3_c2_graphical']",
+        "xpath=//tr[5]/td[3]/div",
+        "css=#Q13_r3_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r3_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r3_c1_graphical",
+        "xpath=//*[@id=\"Q13_r3_c1_graphical\"]",
+        "xpath=//div[@id='Q13_r3_c1_graphical']",
+        "xpath=//tr[5]/td[2]/div",
+        "css=#Q13_r3_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r4_c3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r4_c3_graphical",
+        "xpath=//*[@id=\"Q13_r4_c3_graphical\"]",
+        "xpath=//div[@id='Q13_r4_c3_graphical']",
+        "xpath=//tr[11]/td[4]/div",
+        "css=#Q13_r4_c3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r4_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r4_c2_graphical",
+        "xpath=//*[@id=\"Q13_r4_c2_graphical\"]",
+        "xpath=//div[@id='Q13_r4_c2_graphical']",
+        "xpath=//tr[11]/td[3]/div",
+        "css=#Q13_r4_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r4_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r4_c1_graphical",
+        "xpath=//*[@id=\"Q13_r4_c1_graphical\"]",
+        "xpath=//div[@id='Q13_r4_c1_graphical']",
+        "xpath=//tr[11]/td[2]/div",
+        "css=#Q13_r4_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r10_c4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r10_c4_graphical",
+        "xpath=//*[@id=\"Q13_r10_c4_graphical\"]",
+        "xpath=//div[@id='Q13_r10_c4_graphical']",
+        "xpath=//tr[10]/td[5]/div",
+        "css=#Q13_r10_c4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r7_c4_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r7_c4_graphical",
+        "xpath=//*[@id=\"Q13_r7_c4_graphical\"]",
+        "xpath=//div[@id='Q13_r7_c4_graphical']",
+        "xpath=//tr[9]/td[5]/div",
+        "css=#Q13_r7_c4_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r5_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r5_c1_graphical",
+        "xpath=//*[@id=\"Q13_r5_c1_graphical\"]",
+        "xpath=//div[@id='Q13_r5_c1_graphical']",
+        "xpath=//tr[8]/td[2]/div",
+        "css=#Q13_r5_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r5_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r5_c2_graphical",
+        "xpath=//*[@id=\"Q13_r5_c2_graphical\"]",
+        "xpath=//div[@id='Q13_r5_c2_graphical']",
+        "xpath=//tr[8]/td[3]/div",
+        "css=#Q13_r5_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r5_c3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r5_c3_graphical",
+        "xpath=//*[@id=\"Q13_r5_c3_graphical\"]",
+        "xpath=//div[@id='Q13_r5_c3_graphical']",
+        "xpath=//tr[8]/td[4]/div",
+        "css=#Q13_r5_c3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r6_c1_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r6_c1_graphical",
+        "xpath=//*[@id=\"Q13_r6_c1_graphical\"]",
+        "xpath=//div[@id='Q13_r6_c1_graphical']",
+        "xpath=//tr[6]/td[2]/div",
+        "css=#Q13_r6_c1_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r6_c2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r6_c2_graphical",
+        "xpath=//*[@id=\"Q13_r6_c2_graphical\"]",
+        "xpath=//div[@id='Q13_r6_c2_graphical']",
+        "xpath=//tr[6]/td[3]/div",
+        "css=#Q13_r6_c2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q13_r6_c3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q13_r6_c3_graphical",
+        "xpath=//*[@id=\"Q13_r6_c3_graphical\"]",
+        "xpath=//div[@id='Q13_r6_c3_graphical']",
+        "xpath=//tr[6]/td[4]/div",
+        "css=#Q13_r6_c3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q14_3_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q14_3_graphical",
+        "xpath=//*[@id=\"Q14_3_graphical\"]",
+        "xpath=//div[@id='Q14_3_graphical']",
+        "xpath=//tr[3]/td/div",
+        "css=#Q14_3_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=Q15_2_graphical",
+      "Value": "",
+      "Targets": [
+        "id=Q15_2_graphical",
+        "xpath=//*[@id=\"Q15_2_graphical\"]",
+        "xpath=//div[@id='Q15_2_graphical']",
+        "xpath=//tr[2]/td/div",
+        "css=#Q15_2_graphical"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=next_button",
+      "Value": "",
+      "Targets": [
+        "id=next_button",
+        "name=sys_next_button",
+        "xpath=//*[@id=\"next_button\"]",
+        "xpath=//input[@id='next_button']",
+        "xpath=//div[4]/div/input",
+        "css=#next_button"
+      ],
+      "Description": ""
+    }
+  ]
+}

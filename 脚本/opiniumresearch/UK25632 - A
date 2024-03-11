@@ -1,0 +1,406 @@
+{
+  "Name": "Untitled",
+  "CreationDate": "2024-3-8",
+  "Commands": [
+    {
+      "Command": "type",
+      "Target": "id=n65A1",
+      "Value": "2",
+      "Targets": [
+        "id=n65A1",
+        "name=n65A",
+        "xpath=//*[@id=\"n65A1\"]",
+        "xpath=//input[@id='n65A1']",
+        "xpath=//tr[3]/td/input",
+        "css=#n65A1"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=n65A1",
+      "Value": "",
+      "Targets": [
+        "id=n65A1",
+        "name=n65A",
+        "xpath=//*[@id=\"n65A1\"]",
+        "xpath=//input[@id='n65A1']",
+        "xpath=//tr[3]/td/input",
+        "css=#n65A1"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=btnNext",
+      "Value": "",
+      "Targets": [
+        "id=btnNext",
+        "name=btnNext",
+        "xpath=//*[@id=\"btnNext\"]",
+        "xpath=//input[@id='btnNext']",
+        "xpath=//div[4]/div/input[2]",
+        "css=#btnNext"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=n76A8",
+      "Value": "9",
+      "Targets": [
+        "id=n76A8",
+        "name=n76A",
+        "xpath=//*[@id=\"n76A8\"]",
+        "xpath=//input[@id='n76A8']",
+        "xpath=//tr[10]/td/input",
+        "css=#n76A8"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=n76A8",
+      "Value": "",
+      "Targets": [
+        "id=n76A8",
+        "name=n76A",
+        "xpath=//*[@id=\"n76A8\"]",
+        "xpath=//input[@id='n76A8']",
+        "xpath=//tr[10]/td/input",
+        "css=#n76A8"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=btnNext",
+      "Value": "",
+      "Targets": [
+        "id=btnNext",
+        "name=btnNext",
+        "xpath=//*[@id=\"btnNext\"]",
+        "xpath=//input[@id='btnNext']",
+        "xpath=//div[4]/div/input[2]",
+        "css=#btnNext"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=m77A5",
+      "Value": "6",
+      "Targets": [
+        "id=m77A5",
+        "name=m77A5",
+        "xpath=//*[@id=\"m77A5\"]",
+        "xpath=//input[@id='m77A5']",
+        "xpath=//tr[3]/td/input",
+        "css=#m77A5"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=m77A5",
+      "Value": "",
+      "Targets": [
+        "id=m77A5",
+        "name=m77A5",
+        "xpath=//*[@id=\"m77A5\"]",
+        "xpath=//input[@id='m77A5']",
+        "xpath=//tr[3]/td/input",
+        "css=#m77A5"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=m77A3",
+      "Value": "4",
+      "Targets": [
+        "id=m77A3",
+        "name=m77A3",
+        "xpath=//*[@id=\"m77A3\"]",
+        "xpath=//input[@id='m77A3']",
+        "xpath=//tr[5]/td/input",
+        "css=#m77A3"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=m77A3",
+      "Value": "",
+      "Targets": [
+        "id=m77A3",
+        "name=m77A3",
+        "xpath=//*[@id=\"m77A3\"]",
+        "xpath=//input[@id='m77A3']",
+        "xpath=//tr[5]/td/input",
+        "css=#m77A3"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=btnNext",
+      "Value": "",
+      "Targets": [
+        "id=btnNext",
+        "name=btnNext",
+        "xpath=//*[@id=\"btnNext\"]",
+        "xpath=//input[@id='btnNext']",
+        "xpath=//div[4]/div/input[2]",
+        "css=#btnNext"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=n78A2",
+      "Value": "3",
+      "Targets": [
+        "id=n78A2",
+        "name=n78A",
+        "xpath=//*[@id=\"n78A2\"]",
+        "xpath=//input[@id='n78A2']",
+        "xpath=//tr[4]/td/input",
+        "css=#n78A2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=n78A2",
+      "Value": "",
+      "Targets": [
+        "id=n78A2",
+        "name=n78A",
+        "xpath=//*[@id=\"n78A2\"]",
+        "xpath=//input[@id='n78A2']",
+        "xpath=//tr[4]/td/input",
+        "css=#n78A2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=btnNext",
+      "Value": "",
+      "Targets": [
+        "id=btnNext",
+        "name=btnNext",
+        "xpath=//*[@id=\"btnNext\"]",
+        "xpath=//input[@id='btnNext']",
+        "xpath=//div[4]/div/input[2]",
+        "css=#btnNext"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"UpdatePanel1\"]/div/table/tbody/tr[3]/td",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"UpdatePanel1\"]/div/table/tbody/tr[3]/td",
+        "xpath=//div/table/tbody/tr[3]/td",
+        "css=#UpdatePanel1 > div > table > tbody > tr:nth-child(3) > td"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"UpdatePanel1\"]/div/table/tbody/tr[2]/td",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"UpdatePanel1\"]/div/table/tbody/tr[2]/td",
+        "xpath=//div/table/tbody/tr[2]/td",
+        "css=#UpdatePanel1 > div > table > tbody > tr:nth-child(2) > td"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=n80A2",
+      "Value": "3",
+      "Targets": [
+        "id=n80A2",
+        "name=n80A",
+        "xpath=//*[@id=\"n80A2\"]",
+        "xpath=//input[@id='n80A2']",
+        "xpath=//tr[4]/td/input",
+        "css=#n80A2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=n80A2",
+      "Value": "",
+      "Targets": [
+        "id=n80A2",
+        "name=n80A",
+        "xpath=//*[@id=\"n80A2\"]",
+        "xpath=//input[@id='n80A2']",
+        "xpath=//tr[4]/td/input",
+        "css=#n80A2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=btnNext",
+      "Value": "",
+      "Targets": [
+        "id=btnNext",
+        "name=btnNext",
+        "xpath=//*[@id=\"btnNext\"]",
+        "xpath=//input[@id='btnNext']",
+        "xpath=//div[4]/div/input[2]",
+        "css=#btnNext"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=m81A4",
+      "Value": "5",
+      "Targets": [
+        "id=m81A4",
+        "name=m81A4",
+        "xpath=//*[@id=\"m81A4\"]",
+        "xpath=//input[@id='m81A4']",
+        "xpath=//tr[5]/td/input",
+        "css=#m81A4"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=m81A4",
+      "Value": "",
+      "Targets": [
+        "id=m81A4",
+        "name=m81A4",
+        "xpath=//*[@id=\"m81A4\"]",
+        "xpath=//input[@id='m81A4']",
+        "xpath=//tr[5]/td/input",
+        "css=#m81A4"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=btnNext",
+      "Value": "",
+      "Targets": [
+        "id=btnNext",
+        "name=btnNext",
+        "xpath=//*[@id=\"btnNext\"]",
+        "xpath=//input[@id='btnNext']",
+        "xpath=//div[4]/div/input[2]",
+        "css=#btnNext"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=m84A3",
+      "Value": "4",
+      "Targets": [
+        "id=m84A3",
+        "name=m84A3",
+        "xpath=//*[@id=\"m84A3\"]",
+        "xpath=//input[@id='m84A3']",
+        "xpath=//tr[4]/td/input",
+        "css=#m84A3"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=m84A3",
+      "Value": "",
+      "Targets": [
+        "id=m84A3",
+        "name=m84A3",
+        "xpath=//*[@id=\"m84A3\"]",
+        "xpath=//input[@id='m84A3']",
+        "xpath=//tr[4]/td/input",
+        "css=#m84A3"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=m84A6",
+      "Value": "7",
+      "Targets": [
+        "id=m84A6",
+        "name=m84A6",
+        "xpath=//*[@id=\"m84A6\"]",
+        "xpath=//input[@id='m84A6']",
+        "xpath=//tr[7]/td/input",
+        "css=#m84A6"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=m84A6",
+      "Value": "",
+      "Targets": [
+        "id=m84A6",
+        "name=m84A6",
+        "xpath=//*[@id=\"m84A6\"]",
+        "xpath=//input[@id='m84A6']",
+        "xpath=//tr[7]/td/input",
+        "css=#m84A6"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=btnNext",
+      "Value": "",
+      "Targets": [
+        "id=btnNext",
+        "name=btnNext",
+        "xpath=//*[@id=\"btnNext\"]",
+        "xpath=//input[@id='btnNext']",
+        "xpath=//div[4]/div/input[2]",
+        "css=#btnNext"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=btnNext",
+      "Value": "",
+      "Targets": [
+        "id=btnNext",
+        "name=btnNext",
+        "xpath=//*[@id=\"btnNext\"]",
+        "xpath=//input[@id='btnNext']",
+        "xpath=//div[4]/div/input[2]",
+        "css=#btnNext"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=btnNext",
+      "Value": "",
+      "Targets": [
+        "id=btnNext",
+        "name=btnNext",
+        "xpath=//*[@id=\"btnNext\"]",
+        "xpath=//input[@id='btnNext']",
+        "xpath=//div[4]/div/input",
+        "css=#btnNext"
+      ],
+      "Description": ""
+    }
+  ]
+}
